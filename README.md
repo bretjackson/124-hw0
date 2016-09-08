@@ -19,7 +19,7 @@ You will often encounter an unexpected challenge or two when learning a new tech
 2. Run the tests. Right click on the class name AreaTest. Select Run -> AreaTest. 
 3. IntellIj will run the tests, but they will fail. Each test has an orange exclamation points and error messages appear in the console when they are complete.
 
-### Complete the assignment.
+### Complete the assignment
 
 1. Open Area.java
 2. Fix the two lines marked "TODO" in Area.java.   You may **not** change AreaTest.java.
